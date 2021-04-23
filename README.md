@@ -45,22 +45,8 @@
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jkob&hide_title=true&bg_color=0d1117&text_color=FFF&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-441490%20lines%20of%20code-blue)
 
-**🐱 My Github Data** 
-
-> 🏆 529 Contributions in the Year 2021
- > 
-> 📦 29.5 kB Used in Github's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 6 Public Repositories 
- > 
-> 🔑 18 Private Repositories  
- > 
 **I'm a Night 🦉** 
 
 ```text
@@ -91,17 +77,6 @@ Sunday       90 commits     ██░░░░░░░░░░░░░░░�
 No Activity Tracked This Week
 
 ```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               14 repos            █████████████████░░░░░░░░   70.0% 
-PHP                      4 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0% 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.0% 
-SCSS                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.0%
-
-```
-
 
 
 <!--END_SECTION:waka-->
