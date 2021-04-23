@@ -2,12 +2,6 @@
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" title="LinkedIn Profile" alt="LinkedIn" />](https://www.linkedin.com/in/jakub-wi%C5%9Bniewski-a9a49a198/)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" title="Mail me" alt="Mail me" />](mailto:jakub.r.wisniewski@gmail.com)
 
-### Github Statistics
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=jakubrwisniewski&count_private=true&show_icons=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
-
-### Top Languages
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jakubrwisniewski&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Main Skills
 <p>
 <img title="JavaScript" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
@@ -38,3 +32,12 @@
 <img title="Linux" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
 <img title="Npm" alt="Npm" src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white" />
 </p>
+  
+### Github Statistics
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=jakubrwisniewski&count_private=true&show_icons=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+
+### Github Top Languages
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jakubrwisniewski&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+  
+### Wakatime Stats
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jkob&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
