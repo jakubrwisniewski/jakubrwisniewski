@@ -1,8 +1,8 @@
 ### Social
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" title="LinkedIn Profile" alt="LinkedIn" />](https://www.linkedin.com/in/jakub-wi%C5%9Bniewski-a9a49a198/)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" title="Mail me" alt="Mail me" />](mailto:jakub.r.wisniewski@gmail.com)
-[<img src="https://img.shields.io/badge/Strava-fc5200?style=flat&logo=strava&logoColor=white" title="Strava" alt="Strava" />](https://www.strava.com/athletes/wisnia)
-
+[<img src="https://img.shields.io/badge/Strava-fc5200?style=flat&logo=strava&logoColor=white" title="Strava Profile" alt="Strava" />](https://www.strava.com/athletes/wisnia)
+[<img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white" title="Npm Profile" alt="Npm" />](https://www.npmjs.com/~jkob)
 
 ### I work with:
 <p>
