@@ -1,8 +1,8 @@
 ### Github Statistics
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=jakubrwisniewski&count_private=true&show_icons=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=jakubrwisniewski&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jakubrwisniewski&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+### Top Languages
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jakubrwisniewski&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages and Tools:
 
