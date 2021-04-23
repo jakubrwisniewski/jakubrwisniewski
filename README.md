@@ -43,4 +43,63 @@
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jkob&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-441490%20lines%20of%20code-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 529 Contributions in the Year 2021
+ > 
+> 📦 29.5 kB Used in Github's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 6 Public Repositories 
+ > 
+> 🔑 18 Private Repositories  
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    204 commits    █████░░░░░░░░░░░░░░░░░░░░   20.9% 
+🌆 Daytime    261 commits    ██████░░░░░░░░░░░░░░░░░░░   26.74% 
+🌃 Evening    511 commits    █████████████░░░░░░░░░░░░   52.36% 
+🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday       103 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.55% 
+Tuesday      189 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.36% 
+Wednesday    153 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.68% 
+Thursday     212 commits    █████░░░░░░░░░░░░░░░░░░░░   21.72% 
+Friday       158 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.19% 
+Saturday     71 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.27% 
+Sunday       90 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.22%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               14 repos            █████████████████░░░░░░░░   70.0% 
+PHP                      4 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0% 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.0% 
+SCSS                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.0%
+
+```
+
+
+
 <!--END_SECTION:waka-->
