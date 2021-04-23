@@ -37,12 +37,12 @@
   
 ### Github Statistics
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jakubrwisniewski&show_icons=true&custom_title=Users Stats&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakubrwisniewski&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jakubrwisniewski&show_icons=true&custom_title=Users Stats&hide_border=true&&count_private=true&include_all_commits=true&bg_color=0d1117&text_color=FFF" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakubrwisniewski&show_icons=true&hide_border=true&layout=compact&langs_count=8&bg_color=0d1117&text_color=FFF"/>
 </p>
   
 ### Wakatime Stats
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jkob&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jkob&hide_title=true&bg_color=0d1117&text_color=FFF&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
