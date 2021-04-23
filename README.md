@@ -34,10 +34,10 @@
 </p>
   
 ### Github Statistics
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=jakubrwisniewski&count_private=true&show_icons=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
-
-### Github Top Languages
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jakubrwisniewski&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jakubrwisniewski&show_icons=true&custom_title=Users Stats&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakubrwisniewski&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
   
 ### Wakatime Stats
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jkob&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
