@@ -41,3 +41,6 @@
   
 ### Wakatime Stats
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jkob&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
