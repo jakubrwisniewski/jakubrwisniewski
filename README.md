@@ -37,6 +37,10 @@
   
 ### Github Statistics
 <p>
+  <img src="https://badges.pufler.dev/visits/jakubrwisniewski/jakubrwisniewski" />
+  <img src="https://badges.pufler.dev/years/jakubrwisniewski" />
+</p>
+<p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jakubrwisniewski&show_icons=true&custom_title=Users Stats&hide_border=true&&count_private=true&include_all_commits=true&bg_color=0d1117&text_color=FFF" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakubrwisniewski&show_icons=true&hide_border=true&layout=compact&langs_count=8&bg_color=0d1117&text_color=FFF"/>
 </p>
