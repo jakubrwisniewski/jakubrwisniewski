@@ -4,7 +4,7 @@
 [<img src="https://img.shields.io/badge/Strava-fc5200?style=flat&logo=strava&logoColor=white" title="Strava" alt="Strava" />](https://www.strava.com/athletes/wisnia)
 
 
-### Main Skills
+### I work with:
 <p>
 <img title="JavaScript" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
 <img title="TypeScript" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
@@ -23,7 +23,7 @@
 <img title="MySQL" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white" />
 </p>
 
-### Tools
+### I use:
 <p>
 <img title="VsCode" alt="VsCode" src="https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white" />
 <img title="Slack" alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white" />
