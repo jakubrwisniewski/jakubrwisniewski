@@ -11,6 +11,6 @@
 | sport | ![test](https://github.com/jakubrwisniewski/sport/actions/workflows/node.yml/badge.svg?branch=develop) | ![test](https://github.com/jakubrwisniewski/sport/actions/workflows/node.yml/badge.svg?branch=master) |
 | api | ![test](https://github.com/jakubrwisniewski/api/actions/workflows/node.yml/badge.svg?branch=develop) | ![test](https://github.com/jakubrwisniewski/api/actions/workflows/node.yml/badge.svg?branch=master) |
 | daily-tasks | ![test](https://github.com/jakubrwisniewski/daily-tasks/actions/workflows/node.yml/badge.svg?branch=develop) | ![test](https://github.com/jakubrwisniewski/daily-tasks/actions/workflows/node.yml/badge.svg?branch=master) |
-| another-ws-server | ![test](https://github.com/jakubrwisniewski/another-ws-server/actions/workflows/build.yml/badge.svg?branch=develop) | ![test](https://github.com/jakubrwisniewski/another-ws-server/actions/workflows/build.yml/badge.svg?branch=master) |
+| another-ws-server | ![build](https://github.com/jakubrwisniewski/another-ws-server/actions/workflows/build.yml/badge.svg?branch=develop) | ![build](https://github.com/jakubrwisniewski/another-ws-server/actions/workflows/build.yml/badge.svg?branch=master) |
 
 
