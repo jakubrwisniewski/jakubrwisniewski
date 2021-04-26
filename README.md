@@ -47,7 +47,3 @@
   
 ### Wakatime Stats
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jkob&hide_title=true&bg_color=0d1117&text_color=FFF&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-442195%20lines%20of%20code-blue)
-<!--END_SECTION:waka-->
