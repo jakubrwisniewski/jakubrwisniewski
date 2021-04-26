@@ -46,4 +46,4 @@
 </p>
   
 ### Wakatime Stats
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jkob&hide_title=true&bg_color=0d1117&text_color=FFF&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://wakatime.com/share/@jkob/8e15adb8-f4e9-4b28-b10d-905903f6e0c1.png" />
