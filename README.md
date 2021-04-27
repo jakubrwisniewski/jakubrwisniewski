@@ -45,5 +45,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakubrwisniewski&show_icons=true&hide_border=true&layout=compact&langs_count=8&bg_color=0d1117&text_color=FFF"/>
 </p>
   
-### Wakatime Stats
+### Wakatime Last 7 Days
 <img src="https://wakatime.com/share/@jkob/8e15adb8-f4e9-4b28-b10d-905903f6e0c1.png" />
