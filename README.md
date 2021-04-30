@@ -15,7 +15,6 @@
 <img title="MongoDB" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
 <img title="Sass" alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white" />
 <img title="Jest" alt="Jest" src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white" />
-<img title="MySQL" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white" />
 <img title="Express" alt="Express" src="https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white" />
 <img title="React Router" alt="React Router" src="https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white" />
 <img title="Redux" alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white" />
