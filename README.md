@@ -1,10 +1,17 @@
-### Social
+## Hi I'm Jakub
+
+I am frontend/web developer, tech geek and passionated cyclist. I'm focused at writing good quality code and still improving my coding skills and knowledge.
+
+> Any fool can write code that a computer can understand. Good programmers write code that humans can understand
+
+> Don't worry about reaching perfection, you'll never get there anyway
+
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" title="LinkedIn Profile" alt="LinkedIn" />](https://www.linkedin.com/in/jakub-wi%C5%9Bniewski-a9a49a198/)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" title="Mail me" alt="Mail me" />](mailto:jakub.r.wisniewski@gmail.com)
-[<img src="https://img.shields.io/badge/Strava-fc5200?style=flat&logo=strava&logoColor=white" title="Strava Profile" alt="Strava" />](https://www.strava.com/athletes/wisnia)
 [<img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white" title="Npm Profile" alt="Npm" />](https://www.npmjs.com/~jkob)
+[<img src="https://img.shields.io/badge/Strava-fc5200?style=flat&logo=strava&logoColor=white" title="Strava Profile" alt="Strava" />](https://www.strava.com/athletes/wisnia)
 
-### I work with:
+### I usually work with:
 <p>
 <img title="JavaScript" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
 <img title="TypeScript" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
@@ -22,7 +29,7 @@
 <img title="MySQL" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white" />
 </p>
 
-### I use:
+### I often use:
 <p>
 <img title="VsCode" alt="VsCode" src="https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white" />
 <img title="Slack" alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white" />
