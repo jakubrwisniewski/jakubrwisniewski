@@ -41,14 +41,5 @@ I am frontend/web developer, tech geek and passionated cyclist. I'm focused at w
 <img title="Npm" alt="Npm" src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white" />
 </p>
   
-### Github Statistics
-<p>
-  <img src="https://badges.pufler.dev/visits/jakubrwisniewski/jakubrwisniewski" />
-  <img src="https://badges.pufler.dev/years/jakubrwisniewski" />
-</p>
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jakubrwisniewski&show_icons=true&custom_title=Users Stats&hide_border=true&&count_private=true&include_all_commits=true&bg_color=0d1117&text_color=FFF" />
-</p>
-  
 ### Wakapi all time stats
-![](https://github-readme-stats.vercel.app/api/wakatime?username=jkob&api_domain=wakapi.dev&hide_title=true&hide_border=true&bg_color=0d1117&text_color=FFF&range=any&layout=compact)
+![](https://github-readme-stats.vercel.app/api/wakatime?username=jkob&api_domain=wakapi.dev&hide_title=true&hide_border=true&bg_color=0d1117&text_color=FFF&range=any&layout=compact&langs_count=10)
