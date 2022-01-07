@@ -1,6 +1,6 @@
 ## Hi I'm Jakub
 
-I am frontend/web developer, tech geek and passionated cyclist. I'm focused at writing good quality code and still improving my coding skills and knowledge.
+I am frontend/web developer, tech geek and passionated cyclist. I'm focused on writing good quality code and still improving my coding skills and knowledge.
 
 > Any fool can write code that a computer can understand. Good programmers write code that humans can understand
 
