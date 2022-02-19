@@ -20,7 +20,7 @@ I'm frontend developer, tech geek and passionated cyclist. I'm focused on writin
 [<img src="https://img.shields.io/badge/Blog_(abandoned)-FF5722?style=flat-square&logo=blogger&logoColor=white" title="Blog (abandoned)" alt="Blog (abandoned)" />](https://studencik.usermd.net)
 
 
-### What languages / frameworks I use know
+### What languages / frameworks I use / know
 <p>
 <img title="JavaScript" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 <img title="TypeScript" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
