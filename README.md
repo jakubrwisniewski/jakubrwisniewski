@@ -1,14 +1,21 @@
 # Hi I'm Jakub
 
+[![wakatime](https://wakatime.com/badge/user/5eb0f3ad-c840-47e3-b4c4-ee66bb00da1e.svg)](https://wakatime.com/@5eb0f3ad-c840-47e3-b4c4-ee66bb00da1e)
+
 ### About me
 
 I'm frontend developer, tech geek and passionated cyclist. I'm focused on writing good quality code and still improving my coding skills and knowledge. I have 9+ years of experience in commercial development. It was always about JavaScript. I like and I'm not afraid of challenges and changing something.
+
 
 ### What motivates me
 
 > Any fool can write code that a computer can understand. Good programmers write code that humans can understand
 
 > Don't worry about reaching perfection, you'll never get there anyway
+
+
+### How to contact me
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" title="Mail me" alt="Mail me" />](mailto:jakub.r.wisniewski@gmail.com)
 
 ### My humble presence on social media
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" title="LinkedIn Profile" alt="LinkedIn" />](https://www.linkedin.com/in/jakub-wi%C5%9Bniewski-a9a49a198/)
@@ -51,8 +58,3 @@ I'm frontend developer, tech geek and passionated cyclist. I'm focused on writin
 <img title="Figma" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
 </p>
 
-### How to contact me
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" title="Mail me" alt="Mail me" />](mailto:jakub.r.wisniewski@gmail.com)
-
-### My coding stats (since June 2020)
-![](https://github-readme-stats.vercel.app/api/wakatime?username=jkob&api_domain=wakapi.dev&hide_title=true&hide_border=true&bg_color=0d1117&text_color=FFF&range=any&layout=compact&langs_count=10)
