@@ -4,7 +4,7 @@
 
 ### About me
 
-I'm frontend developer, tech geek and passionated cyclist. I'm focused on writing good quality code and still improving my coding skills and knowledge. I have 9+ years of experience in commercial development. It was always about JavaScript. I like and I'm not afraid of challenges and changing something.
+I'm frontend developer, tech geek and passionated cyclist. I'm focused on writing good quality code and still improving my coding skills and knowledge. I have 10+ years of experience in commercial development. It was always about JavaScript. I like and I'm not afraid of challenges and changing something.
 
 
 ### What motivates me
@@ -32,16 +32,17 @@ I'm frontend developer, tech geek and passionated cyclist. I'm focused on writin
 <img title="JavaScript" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 <img title="TypeScript" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
 <img title="React" alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-<img title="NodeJS" alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
+<img title="Jest" alt="Jest" src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
 <img title="CSS3" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 <img title="HTML5" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img title="MongoDB" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+<img title="TailwindCSS" alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" />
 <img title="Sass" alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-<img title="Jest" alt="Jest" src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
-<img title="Express" alt="Express" src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white" />
 <img title="React Router" alt="React Router" src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white" />
 <img title="Redux" alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white" />
+<img title="NodeJS" alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
+<img title="Express" alt="Express" src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white" />
 <img title="jQuery" alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" />
+<img title="MongoDB" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
 <img title="MySQL" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" />
 </p>
 
