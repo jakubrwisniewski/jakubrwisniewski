@@ -4,7 +4,7 @@
 
 ### About me
 
-I'm frontend developer, tech geek and passionated cyclist. I'm focused on writing good quality code and still improving my coding skills and knowledge. I have 10+ years of experience in commercial development. It was always about JavaScript. I like and I'm not afraid of challenges and changing something.
+I'm frontend/React developer (a bit addicted to coding), tech geek and passionated cyclist. I'm focused on writing good quality code and constantly improving my coding skills and knowledge. I have 10+ years of experience in commercial development. It was always close to JavaScript. I like challenges, continuous development. I'm not afraid of refactoring. Writing unit test became my daily habit.
 
 
 ### What motivates me
@@ -22,10 +22,6 @@ I'm frontend developer, tech geek and passionated cyclist. I'm focused on writin
 [<img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" title="Npm Profile" alt="Npm" />](https://www.npmjs.com/~jkob)
 [<img src="https://img.shields.io/badge/Strava-fc5200?style=flat-square&logo=strava&logoColor=white" title="Strava Profile" alt="Strava" />](https://www.strava.com/athletes/wisnia)
 
-### My websites
-[<img src="https://img.shields.io/badge/Tips-222222?style=flat-square&logo=github-pages&logoColor=white" title="Tips" alt="Tips" />](https://jakubrwisniewski.github.io/tips/)
-[<img src="https://img.shields.io/badge/Blog_(abandoned)-FF5722?style=flat-square&logo=blogger&logoColor=white" title="Blog (abandoned)" alt="Blog (abandoned)" />](https://studencik.usermd.net)
-
 
 ### What languages / frameworks I use / know
 <p>
@@ -41,7 +37,6 @@ I'm frontend developer, tech geek and passionated cyclist. I'm focused on writin
 <img title="Redux" alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white" />
 <img title="NodeJS" alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
 <img title="Express" alt="Express" src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white" />
-<img title="jQuery" alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" />
 <img title="MongoDB" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
 <img title="MySQL" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" />
 </p>
