@@ -2,7 +2,7 @@
 
 ### About me
 
-I'm frontend/React developer (a bit addicted to coding), tech geek and passionated cyclist. I'm focused on writing good quality code and constantly improving my coding skills and knowledge. I have 10+ years of experience in commercial development. It was always close to JavaScript. I like challenges, continuous development. I'm not afraid of refactoring. Writing unit test became my daily habit.
+I'm Senior Frontend Developer with 10+ years of progressive professional experience architecting and delivering complex, scalable applications. Deep expertise in the modern JavaScript ecosystem, with a current focus on TypeScript, React, and adjacent Node.js technologies. Proven track record of success working across projects of varying scale and complexity, often bridging full-stack collaboration. Dedicated to implementing robust code practices, driving quality through unit testing, and fostering effective cross-functional communication to rapidly deliver innovative solutions.
 
 
 ### What motivates me
